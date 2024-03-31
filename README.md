@@ -1,1 +1,1 @@
-Snake_project using Pythom
+Snake_project using Python
